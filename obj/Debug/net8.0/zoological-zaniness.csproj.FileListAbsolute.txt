@@ -1,0 +1,14 @@
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\bin\Debug\net8.0\zoological-zaniness.exe
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\bin\Debug\net8.0\zoological-zaniness.deps.json
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\bin\Debug\net8.0\zoological-zaniness.runtimeconfig.json
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\bin\Debug\net8.0\zoological-zaniness.dll
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\bin\Debug\net8.0\zoological-zaniness.pdb
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.AssemblyInfoInputs.cache
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.AssemblyInfo.cs
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.csproj.CoreCompileInputs.cache
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.dll
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\refint\zoological-zaniness.dll
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.pdb
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\zoological-zaniness.genruntimeconfig.cache
+C:\Users\marii\OneDrive\Documents\Desktop\workspace\Zoological Zaniness\zoological-zaniness\obj\Debug\net8.0\ref\zoological-zaniness.dll
